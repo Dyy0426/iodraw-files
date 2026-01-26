@@ -199,10 +199,10 @@
         <mxCell id="HNI8udKX4Zn5Zj6wvEPO-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Candidate Feature Genes&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="407" y="997" width="181" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="HNI8udKX4Zn5Zj6wvEPO-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HNI8udKX4Zn5Zj6wvEPO-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HNI8udKX4Zn5Zj6wvEPO-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="498.02" y="944" as="sourcePoint" />
-            <mxPoint x="499" y="979" as="targetPoint" />
+            <mxPoint x="499" y="971" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HNI8udKX4Zn5Zj6wvEPO-52" value="Expression Level Analysis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
