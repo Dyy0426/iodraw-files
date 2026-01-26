@@ -208,9 +208,6 @@
         <mxCell id="HNI8udKX4Zn5Zj6wvEPO-52" value="Expression Level Analysis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="499" y="943" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HNI8udKX4Zn5Zj6wvEPO-55" value="ROC Analysis" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="499" y="962" width="145" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
