@@ -45,6 +45,9 @@
         <mxCell id="HNI8udKX4Zn5Zj6wvEPO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNI8udKX4Zn5Zj6wvEPO-0" target="HNI8udKX4Zn5Zj6wvEPO-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HNI8udKX4Zn5Zj6wvEPO-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNI8udKX4Zn5Zj6wvEPO-0" target="HNI8udKX4Zn5Zj6wvEPO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HNI8udKX4Zn5Zj6wvEPO-0" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial; font-size: 14px;&quot;&gt;Cell Type Annotation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="267" y="443" width="164" height="40" as="geometry" />
         </mxCell>
