@@ -205,7 +205,7 @@
             <mxPoint x="499" y="979" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNI8udKX4Zn5Zj6wvEPO-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HNI8udKX4Zn5Zj6wvEPO-52" value="Expression Level Analysis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="512" y="947" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
