@@ -82,10 +82,11 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-22" target="-4E0MeCHPAHqezOWmen_-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-4E0MeCHPAHqezOWmen_-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-22" target="-4E0MeCHPAHqezOWmen_-57">
+        <mxCell id="-4E0MeCHPAHqezOWmen_-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-22" target="-4E0MeCHPAHqezOWmen_-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="174" />
+              <mxPoint x="731" y="210" />
+              <mxPoint x="731" y="174" />
             </Array>
           </mxGeometry>
         </mxCell>
