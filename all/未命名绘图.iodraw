@@ -168,25 +168,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="153.5" y="624" width="777.5" height="112" as="geometry" />
+          <mxGeometry x="53.5" y="624" width="777.5" height="112" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Predictive Model Building&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="174" y="635" width="187" height="37" as="geometry" />
+          <mxGeometry x="74" y="635" width="187" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;SHAP&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="174" y="683" width="125" height="37" as="geometry" />
+          <mxGeometry x="74" y="683" width="125" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-53" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GSEA&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="316" y="683" width="119" height="37" as="geometry" />
+          <mxGeometry x="216" y="683" width="119" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Predictive Models vs Traditional Models&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="379" y="635" width="290" height="37" as="geometry" />
+          <mxGeometry x="279" y="635" width="290" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-55" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Molecular Docking&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="683" width="187" height="37" as="geometry" />
+          <mxGeometry x="350" y="683" width="187" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Molecular Dynamics Simulation&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="652" y="683" width="262" height="37" as="geometry" />
+          <mxGeometry x="552" y="683" width="262" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-57" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Pseudotime Analysis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="749" y="149" width="120" height="40" as="geometry" />
@@ -244,7 +244,7 @@
           <mxGeometry x="929" y="272" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Metabolite-EDGs-Gene Network&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="687" y="635" width="227" height="37" as="geometry" />
+          <mxGeometry x="587" y="635" width="227" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
