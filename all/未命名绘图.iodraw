@@ -85,8 +85,14 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Cell Annotation&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="592" y="287" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-4E0MeCHPAHqezOWmen_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-23" target="-4E0MeCHPAHqezOWmen_-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-4E0MeCHPAHqezOWmen_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="477" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="652" y="430" />
+              <mxPoint x="435" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;scRNA-DEGs&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566" y="367" width="172" height="40" as="geometry" />
@@ -99,9 +105,6 @@
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-27" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Candidate Gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="477" width="120" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="-4E0MeCHPAHqezOWmen_-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;scRNA-DEGs&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="477" width="172" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
