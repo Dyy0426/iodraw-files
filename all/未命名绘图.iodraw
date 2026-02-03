@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="-4E0MeCHPAHqezOWmen_-0" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Exposure: plasma metabolites&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="33" y="278" width="120" height="40" as="geometry" />
+          <mxGeometry x="36" y="194" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-3" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Psoriasis&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="267" y="278" width="120" height="41" as="geometry" />
+          <mxGeometry x="297" y="193" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-5" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Endocrine Disruptors&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="163" y="99" width="120" height="40" as="geometry" />
