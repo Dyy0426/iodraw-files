@@ -52,6 +52,9 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-14" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Key&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;EDGs&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="292" width="146" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-15" target="-4E0MeCHPAHqezOWmen_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;EDGs_gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="138" y="368" width="120" height="39" as="geometry" />
         </mxCell>
@@ -83,7 +86,10 @@
           <mxGeometry x="592" y="194" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-27" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Candidate Gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374" y="477" width="120" height="40" as="geometry" />
+          <mxGeometry x="374" y="477" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-29" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;EDGs_gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="138" y="487" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
