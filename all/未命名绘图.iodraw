@@ -223,6 +223,9 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-67" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Cell Annotation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="929" y="147" width="120" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-70" target="-4E0MeCHPAHqezOWmen_-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Ligand-Receptor Co-localization&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="929" y="212" width="120" height="37" as="geometry" />
         </mxCell>
@@ -231,6 +234,9 @@
             <mxPoint x="911" y="408" as="sourcePoint" />
             <mxPoint x="920" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Ligand-Receptor Co-localization&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="929" y="329" width="120" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
