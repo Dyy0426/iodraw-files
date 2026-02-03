@@ -55,6 +55,10 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="434" y="477" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="198" y="432" />
+              <mxPoint x="435" y="432" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;EDGs_gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -70,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DEGs&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Psoriasis VS Control)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="367" width="172" height="44" as="geometry" />
+          <mxGeometry x="348" y="367" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-22" target="-4E0MeCHPAHqezOWmen_-23">
           <mxGeometry relative="1" as="geometry" />
