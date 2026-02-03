@@ -106,6 +106,9 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-27" target="-4E0MeCHPAHqezOWmen_-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-27" target="-4E0MeCHPAHqezOWmen_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-27" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Candidate Gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="477" width="120" height="37" as="geometry" />
         </mxCell>
@@ -115,8 +118,11 @@
         <mxCell id="-4E0MeCHPAHqezOWmen_-33" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;MCODE&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="547" width="120" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="-4E0MeCHPAHqezOWmen_-35" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Hub gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-4E0MeCHPAHqezOWmen_-35" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Hub gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="621" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-37" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Candidate Gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="574" y="477" width="120" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
