@@ -53,7 +53,10 @@
           <mxGeometry x="156" y="296" width="146" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;EDGs_gene&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="169" y="401" width="120" height="39" as="geometry" />
+          <mxGeometry x="169" y="372" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="489" y="94" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
