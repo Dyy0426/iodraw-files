@@ -46,8 +46,14 @@
             <mxPoint x="229" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-4E0MeCHPAHqezOWmen_-14" target="-4E0MeCHPAHqezOWmen_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-14" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Key&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;endocrine disruptors&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160.5" y="297" width="146" height="40" as="geometry" />
+          <mxGeometry x="156" y="296" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-15" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="169" y="406" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
