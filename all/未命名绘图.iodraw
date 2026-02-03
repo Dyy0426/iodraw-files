@@ -224,7 +224,13 @@
           <mxGeometry x="938" y="193" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-4E0MeCHPAHqezOWmen_-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Ligand-Receptor Co-localization&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="938" y="259" width="120" height="36" as="geometry" />
+          <mxGeometry x="938" y="259" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-4E0MeCHPAHqezOWmen_-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="911" y="408" as="sourcePoint" />
+            <mxPoint x="961" y="358" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
