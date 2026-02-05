@@ -16,6 +16,9 @@
         <mxCell id="hgmPoDPyf4Q2oTbbg8MK-4" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Neuroinflammation related genes&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="436" y="179" width="148" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="hgmPoDPyf4Q2oTbbg8MK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hgmPoDPyf4Q2oTbbg8MK-6" target="hgmPoDPyf4Q2oTbbg8MK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hgmPoDPyf4Q2oTbbg8MK-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Candidate gene&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="281" y="307" width="120" height="47" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
               <mxPoint x="516" y="260" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hgmPoDPyf4Q2oTbbg8MK-19" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="427.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
