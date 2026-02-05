@@ -56,10 +56,10 @@
           <mxGeometry x="281" y="445" width="58" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hgmPoDPyf4Q2oTbbg8MK-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Betweenness&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="449" y="440" width="87" height="26" as="geometry" />
+          <mxGeometry x="436" y="401" width="87" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hgmPoDPyf4Q2oTbbg8MK-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Radiality&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="482" y="405" width="67" height="26" as="geometry" />
+          <mxGeometry x="357" y="445" width="67" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hgmPoDPyf4Q2oTbbg8MK-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Closeness&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="355" y="401" width="69" height="26" as="geometry" />
