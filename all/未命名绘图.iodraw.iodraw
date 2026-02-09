@@ -140,6 +140,11 @@
             <mxPoint x="528" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="643.5" y="813.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-50" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;Hub genes&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="583.5" y="722.5" width="120" height="27.5" as="geometry" />
         </mxCell>
