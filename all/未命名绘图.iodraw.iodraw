@@ -8,42 +8,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;scRNA&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;(HRA008003)&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="214" y="215" width="120" height="44" as="geometry" />
+          <mxGeometry x="142.5" y="125" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="274" y="351" as="targetPoint" />
+            <mxPoint x="202.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-3" target="oo15PLn4Bhaho8B7HhvW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-3" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cell annotation&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="214" y="284" width="120" height="38" as="geometry" />
+          <mxGeometry x="142.5" y="194" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-7" target="oo15PLn4Bhaho8B7HhvW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-7" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;scPagwas&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="214" y="347" width="120" height="34" as="geometry" />
+          <mxGeometry x="142.5" y="256" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-9" target="oo15PLn4Bhaho8B7HhvW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-9" value="PBC Core Associated Genes" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="214" y="407" width="120" height="38" as="geometry" />
+          <mxGeometry x="142.5" y="316" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-12" target="oo15PLn4Bhaho8B7HhvW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-12" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;GEO&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;（&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;GSE79850&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="392" y="329" width="120" height="34" as="geometry" />
+          <mxGeometry x="320.5" y="256" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-13" target="oo15PLn4Bhaho8B7HhvW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-13" value="DEGs&lt;div&gt;(PBC vs Control)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="392" y="407" width="120" height="38" as="geometry" />
+          <mxGeometry x="320.5" y="316" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-15" target="oo15PLn4Bhaho8B7HhvW-18">
           <mxGeometry relative="1" as="geometry" />
@@ -61,40 +61,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-15" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="508" width="120" height="34" as="geometry" />
+          <mxGeometry x="237.5" y="417" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-18" value="PPI" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="479" width="120" height="35" as="geometry" />
+          <mxGeometry x="427.5" y="388" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-22" value="GO/KEGG" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="535" width="120" height="35" as="geometry" />
+          <mxGeometry x="427.5" y="444" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-24" target="oo15PLn4Bhaho8B7HhvW-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="191.5" y="600" width="355" height="60" as="geometry" />
+          <mxGeometry x="120" y="509" width="355" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;XGBoost&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="613" width="83" height="34" as="geometry" />
+          <mxGeometry x="129.5" y="522" width="83" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;randomForest&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="613" width="109" height="34" as="geometry" />
+          <mxGeometry x="238.5" y="522" width="109" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-28" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;KNN-RFE&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="613" width="92" height="34" as="geometry" />
+          <mxGeometry x="372.5" y="522" width="92" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-31" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="715" width="120" height="34" as="geometry" />
+          <mxGeometry x="237.5" y="624" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-33" value="Gene expression validation&lt;div&gt;ROC analysis&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="375" y="672" width="147" height="30" as="geometry" />
+          <mxGeometry x="303.5" y="581" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-34" target="oo15PLn4Bhaho8B7HhvW-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-34" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;GEO&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;（&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;GSE61260&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="558" y="670" width="120" height="34" as="geometry" />
+          <mxGeometry x="486.5" y="579" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
