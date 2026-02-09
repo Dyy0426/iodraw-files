@@ -76,10 +76,10 @@
           <mxGeometry x="201" y="613" width="83" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-27" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="613" width="100" height="34" as="geometry" />
+          <mxGeometry x="319" y="613" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-28" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="613" width="120" height="34" as="geometry" />
+          <mxGeometry x="444" y="613" width="92" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
