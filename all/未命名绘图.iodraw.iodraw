@@ -70,7 +70,10 @@
           <mxGeometry x="499" y="535" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="596" width="355" height="60" as="geometry" />
+          <mxGeometry x="191.5" y="600" width="355" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-26" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="518" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
