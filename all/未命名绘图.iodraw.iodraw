@@ -85,10 +85,10 @@
           <mxGeometry x="444" y="613" width="92" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-31" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="707" width="120" height="34" as="geometry" />
+          <mxGeometry x="309" y="715" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-33" value="Gene expression validation&lt;div&gt;ROC analysis&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="670" width="175" height="30" as="geometry" />
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-33" value="Gene expression validation&lt;div&gt;ROC analysis&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="375" y="672" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
