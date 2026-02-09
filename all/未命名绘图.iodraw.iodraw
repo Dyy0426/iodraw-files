@@ -148,6 +148,39 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-50" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;Hub genes&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="583.5" y="722.5" width="120" height="27.5" as="geometry" />
         </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-55" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;eQTL&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="661" width="83" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;mQTL&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="611" y="661" width="102.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-57" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;pQTL&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="738.5" y="661" width="92" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-61" target="oo15PLn4Bhaho8B7HhvW-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-61" target="oo15PLn4Bhaho8B7HhvW-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-61" target="oo15PLn4Bhaho8B7HhvW-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mendelian Randomization analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="615" width="333.5" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789" y="636" as="sourcePoint" />
+            <mxPoint x="789" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="538" y="637" as="sourcePoint" />
+            <mxPoint x="538" y="662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
