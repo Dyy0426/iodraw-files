@@ -36,7 +36,7 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-12" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;GEO&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;（&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;GSE79850&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="392" y="329" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-13" value="DEGs" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-13" value="DEGs&lt;div&gt;(PBC vs Control)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="392" y="407" width="120" height="38" as="geometry" />
         </mxCell>
       </root>
