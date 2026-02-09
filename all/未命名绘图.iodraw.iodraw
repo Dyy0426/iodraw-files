@@ -27,11 +27,8 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;scPagwas&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="329" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-9" value="PBC Core Associated Genes" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-9" value="PBC Core Associated Genes" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="214" y="430" width="120" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;scPagwas&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="339" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
