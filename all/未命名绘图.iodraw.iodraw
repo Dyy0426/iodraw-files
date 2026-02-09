@@ -51,11 +51,14 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-15" target="oo15PLn4Bhaho8B7HhvW-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-15" target="oo15PLn4Bhaho8B7HhvW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-15" value="Candidate genes" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="508" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-18" value="PPI" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="460" width="120" height="35" as="geometry" />
+          <mxGeometry x="499" y="479" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
