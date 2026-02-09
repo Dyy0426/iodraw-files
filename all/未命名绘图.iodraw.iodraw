@@ -21,8 +21,14 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cell annotation&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="244" width="120" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oo15PLn4Bhaho8B7HhvW-7" target="oo15PLn4Bhaho8B7HhvW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;scPagwas&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="329" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-9" value="PBC Core Associated Genes" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="430" width="120" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
