@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-1" value="Group Division: High/Low Activity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="375" y="327" width="101" height="30" as="geometry" />
+          <mxGeometry x="378" y="327" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IY6CNJsNiIFqrR61nvZ6-2" target="IY6CNJsNiIFqrR61nvZ6-5">
           <mxGeometry relative="1" as="geometry" />
