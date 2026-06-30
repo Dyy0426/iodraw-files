@@ -234,8 +234,8 @@
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-4" value="hub TF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="179" y="383" width="56" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IY6CNJsNiIFqrR61nvZ6-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DEGs_cell&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（High vs Low）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="129" y="499" width="117" height="41" as="geometry" />
+        <mxCell id="IY6CNJsNiIFqrR61nvZ6-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Downstream Disturbance Genes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="124" y="499" width="117" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
