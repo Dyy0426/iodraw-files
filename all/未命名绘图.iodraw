@@ -222,13 +222,19 @@
           <mxGeometry x="122" y="386" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-4" value="hub TF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="178" y="322" width="56" height="30" as="geometry" />
+          <mxGeometry x="178" y="336" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Downstream disturbance genes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="124" y="498" width="117" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mechanical activity score calculation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296" y="269" width="164" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IY6CNJsNiIFqrR61nvZ6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="441" y="293" as="sourcePoint" />
+            <mxPoint x="491" y="243" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
