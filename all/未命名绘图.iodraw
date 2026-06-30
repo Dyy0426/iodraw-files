@@ -175,9 +175,6 @@
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-18" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;GO/KEGG&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="528" y="607" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="IY6CNJsNiIFqrR61nvZ6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IY6CNJsNiIFqrR61nvZ6-19" target="IY6CNJsNiIFqrR61nvZ6-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-19" value="&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;PPI&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="528" y="662" width="120" height="25" as="geometry" />
         </mxCell>
