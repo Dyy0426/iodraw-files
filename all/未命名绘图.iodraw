@@ -189,6 +189,9 @@
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-30" value="Expression Analysis&lt;div style=&quot;font-size: 13px;&quot;&gt;ROC Analysis&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417" y="687" width="124" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="IY6CNJsNiIFqrR61nvZ6-31" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Pseudotime Analysis&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="223" width="164" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
