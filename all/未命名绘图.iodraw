@@ -82,9 +82,9 @@
         <mxCell id="HNI8udKX4Zn5Zj6wvEPO-16" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Differential Expression Analysis&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;（&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt; background-color: initial;&quot;&gt;HN vs Normal&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="632" y="380" width="161" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="IY6CNJsNiIFqrR61nvZ6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNI8udKX4Zn5Zj6wvEPO-18">
+        <mxCell id="IY6CNJsNiIFqrR61nvZ6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HNI8udKX4Zn5Zj6wvEPO-18" target="IY6CNJsNiIFqrR61nvZ6-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416" y="624" as="targetPoint" />
+            <mxPoint x="416" y="628" as="targetPoint" />
             <Array as="points">
               <mxPoint x="712" y="577" />
               <mxPoint x="416" y="577" />
