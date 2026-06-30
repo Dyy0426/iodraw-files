@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IY6CNJsNiIFqrR61nvZ6-1" value="Group Division: High/Low Activity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="327" width="101" height="30" as="geometry" />
+          <mxGeometry x="375" y="327" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
