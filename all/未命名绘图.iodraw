@@ -102,7 +102,7 @@
           <mxGeometry x="630" y="159" width="52" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Gene set scoring&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="468" y="193" width="153" height="26.5" as="geometry" />
+          <mxGeometry x="468" y="193" width="113" height="26.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
