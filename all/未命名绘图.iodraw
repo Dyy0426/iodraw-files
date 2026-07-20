@@ -207,7 +207,7 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;TARGET-OS&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="811" y="172" width="92" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GSE21257&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;GSE21257&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="914" y="172" width="92" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-19" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1;align=left;" vertex="1" parent="1">
@@ -218,6 +218,9 @@
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;Differential expression analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="779" y="236" width="164" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;Differential expression analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="789" y="246" width="164" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
