@@ -198,6 +198,9 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-74" value="Gene expression analysis" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="144" width="120" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-1" target="oo15PLn4Bhaho8B7HhvW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-1" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;GEO&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;（&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; background-color: initial;&quot;&gt;GSE126209&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="824" y="156" width="120" height="34" as="geometry" />
         </mxCell>
