@@ -28,8 +28,8 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-1" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;TWAS&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="313" y="121" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="369" y="137" width="60" height="30" as="geometry" />
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-4" value="eQTL/mQTL/pQTL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="56" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
