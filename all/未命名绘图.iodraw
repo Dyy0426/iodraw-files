@@ -164,17 +164,6 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-59" value="Pseudo-time analysis" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="330.25" width="112" height="24.75" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ned7kcO2TQkoAZ50Ysb3-34" target="Ned7kcO2TQkoAZ50Ysb3-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="648" y="289" as="sourcePoint" />
-            <mxPoint x="716" y="307" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="685" y="279" />
-              <mxPoint x="685" y="277" />
-              <mxPoint x="707" y="277" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-64" value="scTenifoldKnk" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="366" width="112" height="24.75" as="geometry" />
         </mxCell>
