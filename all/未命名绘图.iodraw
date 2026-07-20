@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-68" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;scRNA&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="525" y="22" width="120" height="44" as="geometry" />
+          <mxGeometry x="745" y="14" width="120" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
