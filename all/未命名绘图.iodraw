@@ -110,6 +110,9 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-34" value="Hub cell" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="263.5" width="123" height="30.5" as="geometry" />
         </mxCell>
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-36" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="494" y="164" width="185" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
