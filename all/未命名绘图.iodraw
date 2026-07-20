@@ -219,8 +219,11 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;Differential expression analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="779" y="236" width="164" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;Differential expression analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="789" y="246" width="164" height="24" as="geometry" />
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;ROC analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="779" y="264" width="82" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;ROC analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="789" y="274" width="82" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
