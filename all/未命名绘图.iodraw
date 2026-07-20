@@ -243,7 +243,7 @@
           <mxGeometry x="643" y="336" width="102.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Molecular Docking&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="594.5" y="419" width="90.5" height="56" as="geometry" />
+          <mxGeometry x="577" y="431" width="90.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Molecular Dynamics Simulation&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="706.5" y="419" width="136.5" height="53" as="geometry" />
