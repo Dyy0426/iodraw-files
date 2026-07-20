@@ -178,11 +178,12 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-64" value="scTenifoldKnk" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="366" width="112" height="24.75" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ned7kcO2TQkoAZ50Ysb3-64">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Ned7kcO2TQkoAZ50Ysb3-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="638" y="279" as="sourcePoint" />
             <mxPoint x="722" y="238" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="638" y="280" />
               <mxPoint x="685" y="280" />
               <mxPoint x="685" y="332" />
               <mxPoint x="711" y="332" />
