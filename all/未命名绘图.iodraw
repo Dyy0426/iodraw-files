@@ -113,10 +113,8 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-34" value="Hub cell" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="263.5" width="123" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ned7kcO2TQkoAZ50Ysb3-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="574.4827586206898" y="425" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ned7kcO2TQkoAZ50Ysb3-36" target="Ned7kcO2TQkoAZ50Ysb3-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-36" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="481.5" y="316" width="185" height="73" as="geometry" />
@@ -143,7 +141,7 @@
           <mxGeometry x="488" y="354.75" width="65.5" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-53" value="Hub cell" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="428" width="123" height="30.5" as="geometry" />
+          <mxGeometry x="512.5" y="427" width="123" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
