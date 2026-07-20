@@ -60,7 +60,7 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-12" value="Hub gene" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="464" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-14" value="&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GSE83300&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;CGGA301&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-14" value="&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GSE83300&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt; background-color: initial;&quot;&gt;CGGA301&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="72" y="514" width="120" height="36" as="geometry" />
         </mxCell>
       </root>
