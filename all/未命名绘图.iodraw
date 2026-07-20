@@ -224,7 +224,7 @@
           <mxGeometry x="721" y="161" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-78" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Spatial Trajectory Analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="721" y="199" width="90" height="31" as="geometry" />
+          <mxGeometry x="721" y="199" width="167" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
