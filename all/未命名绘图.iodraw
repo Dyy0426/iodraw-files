@@ -140,8 +140,8 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-48" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ssGSEA&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="488" y="354.75" width="65.5" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-53" value="Hub cell" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="427" width="123" height="30.5" as="geometry" />
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-53" value="A_pos" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="526" y="415" width="109.5" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
