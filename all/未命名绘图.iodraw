@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;XGBoost&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="474.5" y="422" width="83" height="34" as="geometry" />
+          <mxGeometry x="410" y="377" width="83" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-27" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;randomForest&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="583.5" y="422" width="109" height="34" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="555" y="230" width="77" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;scTenifoldKnk&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="487.25" y="313" width="120" height="34" as="geometry" />
+          <mxGeometry x="487.25" y="302" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;MCM4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="542.5" y="273" width="40" height="30" as="geometry" />
