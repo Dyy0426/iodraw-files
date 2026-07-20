@@ -55,8 +55,8 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-11" value="&lt;font style=&quot;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;CPTAC（&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;validation&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="372" width="159" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-12" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="476" width="120" height="60" as="geometry" />
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-12" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="476" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
