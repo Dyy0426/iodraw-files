@@ -155,7 +155,7 @@
           <mxGeometry x="712" y="214.25" width="80" height="26.75" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-58" value="TF" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="712" y="263.25" width="80" height="21.75" as="geometry" />
+          <mxGeometry x="712" y="263.25" width="111" height="21.75" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-59" value="Pseudo-time analysis" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="712" y="310.25" width="112" height="24.75" as="geometry" />
@@ -165,9 +165,8 @@
             <mxPoint x="648" y="289" as="sourcePoint" />
             <mxPoint x="716" y="307" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="695" y="279" />
-              <mxPoint x="695" y="333" />
-              <mxPoint x="712" y="333" />
+              <mxPoint x="685" y="279" />
+              <mxPoint x="685" y="228" />
             </Array>
           </mxGeometry>
         </mxCell>
