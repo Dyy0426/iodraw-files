@@ -99,7 +99,7 @@
           <mxGeometry x="478" y="159" width="153" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-29" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Augur&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="495" y="191" width="153" height="26.5" as="geometry" />
+          <mxGeometry x="635" y="159" width="65" height="26.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
