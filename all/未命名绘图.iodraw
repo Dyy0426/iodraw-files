@@ -156,7 +156,7 @@
           <mxGeometry x="526" y="415" width="95" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-57" value="Cellchat" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="266" width="110" height="21" as="geometry" />
+          <mxGeometry x="707" y="268" width="110" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-58" value="TF" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="296.25" width="111" height="21.75" as="geometry" />
@@ -185,8 +185,7 @@
             <Array as="points">
               <mxPoint x="638" y="280" />
               <mxPoint x="685" y="280" />
-              <mxPoint x="685" y="332" />
-              <mxPoint x="711" y="332" />
+              <mxPoint x="685" y="377" />
             </Array>
           </mxGeometry>
         </mxCell>
