@@ -199,7 +199,7 @@
           <mxGeometry x="914" y="172" width="92" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-19" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="774.5" y="233" width="231.5" height="50" as="geometry" />
+          <mxGeometry x="774.5" y="233" width="185.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-20" value="Metastasis vs No Metastasis" style="text;whiteSpace=wrap;fontSize=7;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="769" y="147" width="103" height="16" as="geometry" />
