@@ -219,8 +219,8 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-2" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;MCM4&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="747" y="92" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="709" y="198" width="60" height="30" as="geometry" />
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Tumor&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt; &lt;font face=&quot;Times New Roman&quot;&gt;vs &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Nornal&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="709" y="198" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
