@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="D2837OIwZU0k1V5WQ0_3">
-    <mxGraphModel dx="942" dy="480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="550" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="550" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,14 +49,16 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-10" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;Kaplan-Meier&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="327" width="159" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ned7kcO2TQkoAZ50Ysb3-11" target="Ned7kcO2TQkoAZ50Ysb3-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Ned7kcO2TQkoAZ50Ysb3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303" y="422" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-11" value="&lt;font style=&quot;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;CPTAC（&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;validation&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="372" width="159" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-12" value="Hub gene" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="476" width="120" height="33" as="geometry" />
+          <mxGeometry x="242.5" y="464" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
