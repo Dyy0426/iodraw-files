@@ -238,7 +238,7 @@
           <mxGeometry x="912" y="270" width="82" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-27" value="Overall Survival" style="text;whiteSpace=wrap;fontSize=7;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="892.5" y="147" width="54.5" height="16" as="geometry" />
+          <mxGeometry x="893.5" y="147" width="54.5" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
