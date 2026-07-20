@@ -234,14 +234,13 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;PPI/MCODE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="474.5" y="389" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-50" target="5I8S8F8YXCr8T6lEFtcP-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="694.3" y="437" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-50" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DrugReflector&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="643" y="336" width="102.5" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-53" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="634.25" y="437" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
