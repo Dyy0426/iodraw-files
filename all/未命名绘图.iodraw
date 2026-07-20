@@ -234,7 +234,7 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;GSEA&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="684" y="243" width="82" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;GSEA&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ssGSEA&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="684" y="272" width="82" height="24" as="geometry" />
         </mxCell>
       </root>
