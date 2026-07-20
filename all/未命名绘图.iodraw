@@ -51,11 +51,6 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-12" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;GEO&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;（&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt;&quot;&gt;GSE&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9pt;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;99671,&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GSE126209&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="652" y="173" width="147" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="oo15PLn4Bhaho8B7HhvW-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="804.7619047619048" y="253.99999999999994" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oo15PLn4Bhaho8B7HhvW-15" target="oo15PLn4Bhaho8B7HhvW-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -214,6 +209,9 @@
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GSE21257&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="914" y="172" width="92" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;TARGET-OS&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="821" y="182" width="92" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
