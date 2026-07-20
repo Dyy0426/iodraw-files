@@ -57,7 +57,7 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oo15PLn4Bhaho8B7HhvW-13" target="oo15PLn4Bhaho8B7HhvW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-13" value="DEGs&lt;div&gt;(PBC vs Control)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-13" value="DEGs&lt;div&gt;(PBC vs Control)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="665.5" y="216" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oo15PLn4Bhaho8B7HhvW-15" target="oo15PLn4Bhaho8B7HhvW-18" edge="1">
