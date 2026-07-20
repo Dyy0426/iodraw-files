@@ -242,8 +242,11 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-50" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DrugReflector&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="643" y="336" width="102.5" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Downstream target genes&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="578.5" y="419" width="167" height="34" as="geometry" />
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Docking&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="594.5" y="419" width="90.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Docking&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="604.5" y="429" width="90.5" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
