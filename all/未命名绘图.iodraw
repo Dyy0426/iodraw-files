@@ -197,7 +197,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;PPI/MCODE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;PPI/MCODE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="451" y="401" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-50" target="5I8S8F8YXCr8T6lEFtcP-55">
