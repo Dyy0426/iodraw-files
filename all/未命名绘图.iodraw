@@ -173,6 +173,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-64" value="scTenifoldKnk" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="712" y="354.75" width="112" height="24.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
