@@ -43,7 +43,7 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-7" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;TCGA-GBM&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="318" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-9" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;TCGA-GBM&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;univariate COX analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="282" width="120" height="36" as="geometry" />
         </mxCell>
       </root>
