@@ -72,7 +72,7 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-15" value="GSVA" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="243.25" y="527" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-17" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-17" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;Kaplan-Meier&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="243.25" y="628" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
