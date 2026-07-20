@@ -104,7 +104,7 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-30" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:Arial;&#xa;font-weight:normal;font-size:10.5000pt;&quot;&gt;AUCell&lt;font face=&quot;Arial&quot;&gt;、&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UCell&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;、&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;singscore&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;、&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ssGSEA &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;和 &lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;AddModuleScore&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514.9972503030712" y="232.99513697130934" width="367" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-31" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Augur&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-31" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;AUCell&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="468" y="192" width="52" height="26.5" as="geometry" />
         </mxCell>
       </root>
