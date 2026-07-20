@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="D2837OIwZU0k1V5WQ0_3">
-    <mxGraphModel dx="1346" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="538" dy="274" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-15" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="239" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oo15PLn4Bhaho8B7HhvW-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Downstream Target Genes&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="oo15PLn4Bhaho8B7HhvW-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Downstream target genes&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="385" width="167" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oo15PLn4Bhaho8B7HhvW-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=-0.064;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oo15PLn4Bhaho8B7HhvW-36" edge="1">
