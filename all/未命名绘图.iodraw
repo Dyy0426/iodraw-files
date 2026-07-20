@@ -87,7 +87,7 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-23" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cell annotation&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="81" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-24" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;Hub cell&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-24" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;Hub cell&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="154" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
