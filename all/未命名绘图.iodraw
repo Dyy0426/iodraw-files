@@ -93,10 +93,13 @@
           <mxGeometry x="515" y="81" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-24" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="473" y="154" width="205" height="51" as="geometry" />
+          <mxGeometry x="473" y="154" width="215" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cell proportion analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="480" y="160.5" width="153" height="26.5" as="geometry" />
+          <mxGeometry x="478" y="159" width="153" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cell proportion analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="487" y="178.5" width="153" height="26.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
