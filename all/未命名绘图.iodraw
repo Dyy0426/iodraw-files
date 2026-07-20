@@ -194,26 +194,11 @@
         <mxCell id="oo15PLn4Bhaho8B7HhvW-74" value="Gene expression analysis" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="144" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="884" y="174" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="884" y="174" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="884" y="174" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-2" target="oo15PLn4Bhaho8B7HhvW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-2" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;MCM4&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="747" y="92" width="120" height="27.5" as="geometry" />
+          <mxGeometry x="796" y="92" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Times New Roman&quot;&gt;Tumor&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 7px;&quot;&gt; &lt;font style=&quot;font-size: 7px;&quot; face=&quot;Times New Roman&quot;&gt;vs &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Times New Roman&quot;&gt;Nornal&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="663.5" y="142" width="66" height="30" as="geometry" />
