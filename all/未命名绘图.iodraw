@@ -220,7 +220,7 @@
           <mxGeometry x="747" y="92" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 7px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 7px;&quot;&gt;Tumor&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 7px;&quot;&gt; &lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 7px;&quot;&gt;vs &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 7px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 7px;&quot;&gt;Nornal&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="661" y="143" width="72" height="30" as="geometry" />
+          <mxGeometry x="662.5" y="144" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
