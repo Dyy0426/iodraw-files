@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="D2837OIwZU0k1V5WQ0_3">
-    <mxGraphModel dx="1346" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="550" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="550" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-17" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;Kaplan-Meier&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="233.25" y="586" width="140.75" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ned7kcO2TQkoAZ50Ysb3-22" target="Ned7kcO2TQkoAZ50Ysb3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-22" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;scRNA&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;GSE152048&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="12" width="120" height="44" as="geometry" />
         </mxCell>
@@ -85,7 +88,7 @@
           <mxGeometry x="515" y="81" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-24" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;Hub cell&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="515" y="144" width="120" height="34" as="geometry" />
+          <mxGeometry x="515" y="189" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
