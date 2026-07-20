@@ -143,13 +143,13 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-53" value="A_pos" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="526" y="415" width="95" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-57" value="Cellchat" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-57" value="Cellchat" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="712" y="214.25" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-58" value="TF" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-58" value="TF" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="712" y="263.25" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-59" value="Pseudo-time analysis" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-59" value="Pseudo-time analysis" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="712" y="310.25" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
