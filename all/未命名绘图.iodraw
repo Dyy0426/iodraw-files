@@ -195,7 +195,7 @@
           <mxGeometry x="294" y="144" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-1" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;GEO&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font&gt;（&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="824" y="166" width="120" height="34" as="geometry" />
+          <mxGeometry x="824" y="174" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5I8S8F8YXCr8T6lEFtcP-2" target="5I8S8F8YXCr8T6lEFtcP-1">
           <mxGeometry relative="1" as="geometry" />
@@ -211,8 +211,8 @@
             <mxPoint x="807" y="121" as="sourcePoint" />
             <mxPoint x="730" y="167" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="807" y="139" />
-              <mxPoint x="726" y="139" />
+              <mxPoint x="807" y="145" />
+              <mxPoint x="726" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
