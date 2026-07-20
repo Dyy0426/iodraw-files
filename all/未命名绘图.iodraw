@@ -213,7 +213,7 @@
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;TARGET-OS&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="811" y="227" width="92" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="5I8S8F8YXCr8T6lEFtcP-20" value="Metastasis vs No Metastasis" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5I8S8F8YXCr8T6lEFtcP-20" value="Metastasis vs No Metastasis" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="768.8626796177455" y="217.97594778878346" width="180" height="36" as="geometry" />
         </mxCell>
       </root>
