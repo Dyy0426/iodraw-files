@@ -199,19 +199,19 @@
           <mxGeometry x="914" y="172" width="92" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-19" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="771.5" y="233" width="185.5" height="60" as="geometry" />
+          <mxGeometry x="813.5" y="233" width="185.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-20" value="Metastasis vs No Metastasis" style="text;whiteSpace=wrap;fontSize=7;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="769" y="147" width="103" height="16" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;Differential expression analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="779" y="236" width="169" height="24" as="geometry" />
+          <mxGeometry x="821" y="236" width="169" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;ROC analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="779" y="264" width="82" height="24" as="geometry" />
+          <mxGeometry x="821" y="264" width="82" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5I8S8F8YXCr8T6lEFtcP-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;KM analysis&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="867" y="264" width="82" height="24" as="geometry" />
+          <mxGeometry x="909" y="264" width="82" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
