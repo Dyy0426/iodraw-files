@@ -113,11 +113,8 @@
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-36" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="481.5" y="316" width="185" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="Ned7kcO2TQkoAZ50Ysb3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ned7kcO2TQkoAZ50Ysb3-37" target="Ned7kcO2TQkoAZ50Ysb3-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ned7kcO2TQkoAZ50Ysb3-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;K-means&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="493.5" y="327" width="65.5" height="26.5" as="geometry" />
+          <mxGeometry x="509" y="421" width="65.5" height="26.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
